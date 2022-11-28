@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of Project: 
-This overview goes in-depth analysing UFO sightings by allowing users to filter for multiple criteria at the same time. I used app.js and index.html to build users input to go through the table of UFO sightings. 
+This overview goes in-depth analyzing UFO sightings by allowing users to filter for multiple criteria at the same time. I used app.js and index.html to build users input to go through the table of UFO sightings. 
 
 
 ## Deliverable 1 Instructions
