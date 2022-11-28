@@ -14,5 +14,9 @@ When users come to this site they will go through the search filters. If a user 
 
 ![](https://github.com/JaredTMurray/UFOs/blob/main/images/image1.png)
 
+The results will be seen in the table. 
+
+![](https://github.com/JaredTMurray/UFOs/blob/main/images/image2.png)
+
 ## Summary: 
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
