@@ -4,7 +4,7 @@ This overview goes in-depth analysing UFO sightings by allowing users to filter 
 
 
 ## Deliverable 1 Instructions
-I have used the HTML file, [index.html](https://github.com/JaredTMurray/UFOs/blob/main/index.html) and linked it to the Javascript file, [app.js](https://github.com/JaredTMurray/UFOs/blob/main/js/app.js), I modified the code in my index.html file to create more table filters. In addition to the date filter I created in this module, I added filters for the city, state, country, and shape, as shown in the following image:
+I have used the HTML file, [index.html](https://github.com/JaredTMurray/UFOs/blob/main/index.html) and linked it to the Javascript file, [app.js](https://github.com/JaredTMurray/UFOs/blob/main/js/app.js), to modify the search through the table in my index.html file. It created more table filters. The app.js file function updateFilters(), saves the ids of the filter in the variable filterId and applied it through the rows of the table and also cleare In addition to the date filter I created in this module, I added filters for the city, state, country, and shape, as shown in the following image:
 
 
 ## Results: 
