@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of Project: 
-Explain the purpose of this analysis.
+This overview goes in-depth analysing UFO sightings by allowing users to filter for multiple criteria at the same time. I used 
 
 
 ## Results: 
