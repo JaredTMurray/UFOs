@@ -19,4 +19,4 @@ The results will be seen in the table.
 ![](https://github.com/JaredTMurray/UFOs/blob/main/images/image2.png)
 
 ## Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+One drawback of this design is that this table auto adjusts based on one criteria instead of all five. Another drawback of this design, it does not have a user submit button for the user to confirm that they are finished with all the criteria that they need to search through the table. 
