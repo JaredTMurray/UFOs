@@ -10,7 +10,9 @@ The function filterTable() is used to filter through the data and set the variab
 I then used a for loop which increments I to go through all the filters and match the values and set it to build the table. Note: the event listener for change for each filter is declared as d3.selectAll("input").on("change", udpdateFilters);
 
 ## Results: 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+When users come to this site they will go through the search filters. If a user inputs a date, city, state, country or shape, in any of the five filters, then, the table will automatically adjust. See image below 
+
+![](https://github.com/JaredTMurray/UFOs/blob/main/images/image1.png)
 
 ## Summary: 
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
